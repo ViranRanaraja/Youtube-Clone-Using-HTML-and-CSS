@@ -4,7 +4,7 @@
 
 Created a Youtube Clone Design using HTML and CSS.
 
-THis is what the homepage looks like:
+This is what the homepage looks like:
 
 ![image.png](image.png)
 
